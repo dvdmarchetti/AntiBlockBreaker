@@ -1,0 +1,9 @@
+main: org.github.abc33.AntiBlockBreaker
+version: 0.1
+name: AntiBlockBreaker
+author: _abc33_
+commands:
+  antiblockbreaker:
+    description: AntiBlockBreaker main command.
+    aliases: [abb]
+    usage: /antiblockbreaker

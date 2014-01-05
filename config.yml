@@ -1,0 +1,6 @@
+# Metrics
+opt-out: false
+
+# Use only IDs
+blocked-materials:
+- 18
